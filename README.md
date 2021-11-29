@@ -1,2 +1,2 @@
-# Projeto02_Gorjeta_EDAcomSeaborn
+# Projeto_Gorjeta_EDAcomSeaborn
  
